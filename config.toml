@@ -55,21 +55,13 @@ timeout = "360s"
   mainSections = ["posts"]
 
   # Isso
-  issoUrl = "//comments.sumnerevans.com"
+  issoUrl = "//comments.keenanschott.com"
 
   [params.issoOptions]
     avatar = false
     gravatar = true
     reply-notifications = true
     reply-to-self = true
-
-  # Plausible
-  [params.plausible]
-    domain = "sumnerevans.com"
-    plausibleRoot = "https://plausible.io"
-
-  [params.goatcounter]
-    domain = "https://sws.goatcounter.com/count"
 
 [menu]
   [[menu.main]]
