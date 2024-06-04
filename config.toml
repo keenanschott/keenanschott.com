@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 timeout = "360s"
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
 
 # paginate = 15
 
@@ -54,15 +54,6 @@ timeout = "360s"
   # Posts shown in homepage
   mainSections = ["posts"]
 
-  # Isso
-  issoUrl = "//comments.keenanschott.com"
-
-  [params.issoOptions]
-    avatar = false
-    gravatar = true
-    reply-notifications = true
-    reply-to-self = true
-
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -99,6 +90,12 @@ timeout = "360s"
     name = "Tags"
     url = "/tags/"
     weight = 6
+
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/index.xml"
+    weight = 7
 
 # Footer
   [[menu.footer]]
