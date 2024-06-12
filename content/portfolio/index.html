@@ -11,9 +11,9 @@ title: "Portfolio"
 </div>
 
 <p>
-  I'm a software engineer and educator. I have six years of industry experience as a software
-  engineer, and I have taught classes at a university level for eight semesters including one
-  graduate level course and six senior level courses.
+  I'm an aspiring software engineer, product manager, and consultant. I have two internship
+  experiences as a software engineer, and I have taught classes at a university level
+  for eight semesters including one graduate level course and six senior level courses.
 </p>
 
 <h2 id="experience">
@@ -21,98 +21,85 @@ title: "Portfolio"
   <a class="permalink" href="#experience">&para;</a>
 </h2>
 
-<details id="experience-automattic" class="portfolio-item" open>
+<details id="experience-icr" class="portfolio-item" open>
   <summary>
     <h3>
-      Software Engineer (<a href="https://beeper.com" target="_blank">Beeper</a>)
-      <a class="permalink" href="#experience-automattic">&para;</a>
+      Software Engineer Intern
+      <a class="permalink" href="#experience-icr">&para;</a>
     </h3>
-    <span>April 2024 - Present</span>
+    <span>May 2024 - Present</span>
     <p>
-      <a href="https://automattic.com" target="_blank">Automattic</a>
+      <a href="https://www.icr-team.com" target="_blank">ICR, Inc.</a>
     </p>
   </summary>
   <div>
-    <p><i>Key Technologies:</i> Matrix, Go, Python</p>
+    <p><i>Key Technologies:</i> React, TypeScript, Ollama</p>
     <p>
-      I joined 
-      <a href="https://automattic.com" target="_blank">Automattic</a>
-      via the
-      <a href="https://blog.beeper.com/2024/04/09/beeper-is-joining-automattic/" target="_blank">
-        Beeper</a>
-      <a href="https://automattic.com/2024/04/09/automattic-acquires-beeper/" target="_blank">
-        acquisition</a>.
-      I work on building the infrastructure necessary to connect people on every chat network through
-      <b>Matrix</b>. I work mainly on bridges and other backend projects to enable Beeper to grow
-      and add new users.
-    </p>
-  </div>
-</details>
-
-<details id="experience-beeper" class="portfolio-item" open>
-  <summary>
-    <h3>
-      Software Engineer
-      <a class="permalink" href="#experience-beeper">&para;</a>
-    </h3>
-    <span>July 2021 - April 2024</span>
-    <p>
-      <a href="https://beeper.com" target="_blank">Beeper</a> (acquired by
-      <a href="https://automattic.com" target="_blank">Automattic</a>)
-    </p>
-  </summary>
-  <div>
-    <p><i>Key Technologies:</i> Matrix, Python, Go</p>
-    <p>
-      I worked on building the infrastructure necessary to connect people on every chat network through
-      <b>Matrix</b>. I worked mainly on bridges and other backend projects to enable Beeper to grow
-      and add new users.
+      I work on the 
+      <a href="https://www.kirtland.af.mil/Units/Joint-Navigation-Warfare-Center/" target="_blank">
+      JNWC</a> Request for Information (RFI) web application. I work mainly on the front-end to enable
+      end users to achieve quicker RFI turnaround with tools such as
+      <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank">
+      NLP</a>.
     </p>
     <details open>
       <summary>Notable projects include...</summary>
       <ul>
         <li>
-          Reverse engineered and implemented many core features for
-          <a href="https://blog.beeper.com/p/introducing-beeper-mini-get-blue"><b>Beeper Mini</b></a>
-          including sending media, tapbacks, typing indicators, read receipts,
-          edits, unsends, link previews, adding and removing group members, and
-          changing group names and avatars.
+          Created an autofill feature built on
+          <a href="https://github.com/ollama/ollama" target="_blank">
+          Ollama</a> that uses ICR's LLM to enable faster RFI completion.
         </li>
         <li>
-          Started a project called
-          <a href="#presentation-hungryserv">Hungryserv</a>
-          (<b>Matrix</b>-compatible homeserver written in <b>Go</b>)
-          which enabled us to scale from hundreds to tens of thousands of users.
-          I created the initial proof of concept and then was a core member of the
-          team that productionized the project, implementing many core features
-          along the way.
+          Built an advanced RFI filtering tool to enable end users to locate
+          RFIs as the product scales from hundreds to tens of thousands of users.
         </li>
         <li>
-          Streamlined our support team's ability to chat directly with users by
-          building a
-          <a href="https://github.com/beeper/chatwoot/" target="_blank">Chatwoot bot</a>
-          in <b>Go</b>.
+          Migrated the project to
+          <a href="https://https://vitejs.dev/" target="_blank">
+          Vite</a> and
+          <a href="https://tanstack.com/" target="_blank">
+          TanStack</a>, from a monorepo to a multi-repo, and introduced
+          unit testing via
+          <a href="https://vitest.dev/" target="_blank">
+          Vitest</a>.
         </li>
         <li>
-          Reverse-engineered the
-          <a href="https://github.com/beeper/linkedin-messaging-api" target="_blank">LinkedIn Messaging API</a>
-          and implemented a
-          <a href="https://github.com/beeper/linkedin" target="_blank">LinkedIn bridge</a>
-          in <b>Python</b>.
+          Introduced linting into the Gitlab pipeline, managed delivery via
+          <a href="https://www.docker.com/" target="_blank">Docker</a> and 
+          <a href="https://www.jenkins.io/" target="_blank">Jenkins</a>,
+          revamped the error/success message system using
+          global state on data mutation, and removed API validation where it
+          was no longer needed.
         </li>
+      </ul>
+    </details>
+  </div>
+</details>
+
+<details id="experience-datava" class="portfolio-item" open>
+  <summary>
+    <h3>
+      Software Engineer Intern
+      <a class="permalink" href="#experience-datava">&para;</a>
+    </h3>
+    <span>May 2023 - April 2024</span>
+    <p>
+      <a href="https://datava.com/" target="_blank">Datava</a>
+    </p>
+  </summary>
+  <div>
+    <p><i>Key Technologies:</i> PHP, PostgreSQL, JavaScript</p>
+    <p>
+      I worked on creating the translation layer between a front-end interface and a PostgreSQL server
+      to empower credit unions across the Western United States to choose how they wish to store, maintain,
+      and leverage their data. I worked mainly on the back-end to sanitize and process end-user requests.
+    </p>
+    <details open>
+      <summary>Notable projects include...</summary>
+      <ul>
         <li>
-          Measured message send <b>latency and reliability</b> by
-          instrumenting bridge <b>metrics</b>. Built a service to process those
-          metrics and send them to BigQuery.
-        </li>
-        <li>
-          Defined a framework for importing users' chat history, and implemented it in the
-          <a href="https://github.com/mautrix/whatsapp" target="_blank">WhatsApp</a>,
-          <a href="https://github.com/mautrix/facebook" target="_blank">Facebook</a>,
-          <a href="https://github.com/mautrix/instagram" target="_blank">Instagram</a>, and
-          (in progress)
-          <a href="https://github.com/mautrix/imessage" target="_blank">iMessage</a>
-          bridges.
+          Standardized some stuff. 
         </li>
       </ul>
     </details>
