@@ -18,7 +18,7 @@ I'm passionate about:
 - Computer Science & Engineering
 - Software Architecture & Engineering
 - Photography
-- Sports & Sports Analytics
+- Sports Analytics
 
 When I'm not working or at school, I enjoy skiing, backpacking, and, in
 general, being outdoors. I'll often take either a DSLR or film camera
