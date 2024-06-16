@@ -26,7 +26,7 @@ on these excursions, and I share my work on my [blog](/). I post about
 my travels, technology, education, projects, and anything else that might
 come to mind. On my [portfolio][1] page, I have an up-to-date overview
 of my professional achievements as well as my up-to-date resume. You can
-find links to all of my public facing social media accounts that I
+find links to all of my public-facing social media accounts that I
 regularly use in the footer of this site.
 
 Thanks for stopping by!
