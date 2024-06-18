@@ -1733,7 +1733,7 @@ html { overflow-y: scroll; }
 
 body { max-width: 800px; margin: 40px auto; padding: 0 10px; font-size: 15px; line-height: 1.5; font-family: Iosevka, monospace; color: #333; }
 
-a { transition-property: all; transition-duration: 0.2s; transition-timing-function: ease; color: #0c61e8; text-decoration: dotted underline; }
+a { transition-property: all; transition-duration: 0.2s; transition-timing-function: ease; color: #0c61e8; text-decoration: none; }
 
 a:hover, a:active, a:focus { color: #073887; text-decoration: underline; }
 
