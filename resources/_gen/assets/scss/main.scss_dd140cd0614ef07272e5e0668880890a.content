@@ -1906,4 +1906,14 @@ table:not(.gallery) th.align-right, table:not(.gallery) td.align-right { text-al
 
 table:not(.gallery) th.border-right, table:not(.gallery) td.border-right { border-right: 1px solid black; }
 
+.post-summary { display: flex; }
+
+@media screen and (max-width: 600px) { .post-summary { flex-direction: column; } }
+
+.post-summary .summary-image { width: 250px; margin: 4px 16px 0 0; flex-grow: 0; flex-shrink: 0; }
+
+@media screen and (max-width: 600px) { .post-summary .summary-image { width: 100%; margin: 0; } }
+
+.post-summary .summary-text { margin: 0; }
+
 /*# sourceMappingURL=style.css.map */
