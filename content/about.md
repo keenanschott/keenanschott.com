@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-06-01 07:06:00
+date: 2024-06-17 22:03:00
 ---
 
 Hello, and welcome to my website!
@@ -13,21 +13,24 @@ University of Washington (M.S. in Information Management with a focus in
 Program/Product Management & Consulting, 2025). Previously, I worked at
 [Datava](https://datava.com/).
 
-I'm passionate about:
-- Programming
+My technical interests include:
 - Computer Science & Engineering
-- Software Architecture & Engineering
+- Full-Stack Development
+- Programming
+
+My non-technical interests include:
+- Music
 - Photography
-- Sports Analytics
+- Sports
 
 When I'm not working or at school, I enjoy skiing, backpacking, and, in
 general, being outdoors. I'll often take either a DSLR or film camera
 on these excursions, and I share my work on my [blog](/). I post about
 my travels, technology, education, projects, and anything else that might
 come to mind. On my [portfolio][1] page, I have an up-to-date overview
-of my professional achievements as well as my up-to-date resume. You can
-find links to all of my public-facing social media accounts that I
-regularly use in the footer of this site.
+of my professional achievements as well as my up-to-date
+[resume](/portfolio/resume.pdf). You can find links to all of my
+public-facing social media accounts in the footer of this site.
 
 Thanks for stopping by!
 
