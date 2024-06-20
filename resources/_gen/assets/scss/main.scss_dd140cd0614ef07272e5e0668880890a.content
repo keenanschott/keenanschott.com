@@ -1751,6 +1751,20 @@ h1, h2, h3 { line-height: 1.2; }
 
 h1 { font-size: 2em; }
 
+div.article-title { display: flex; align-items: center; }
+
+@media screen and (max-width: 600px) { div.article-title { flex-direction: column; align-items: start; } }
+
+div.article-title h1 { flex-grow: 1; margin: 15px 0; }
+
+div.article-title img { display: block; margin-left: 8px; min-height: 42px; min-width: 131px; }
+
+@media screen and (max-width: 600px) { div.article-title img { margin-left: 0; } }
+
+p.article-info { margin-top: 0; }
+
+@media screen and (max-width: 600px) { p.article-info { margin-top: 15px; } }
+
 main *:not(pre) > code, tt, kbd { background-color: #0002; border-radius: 4px; font-family: Iosevka, monospace; padding: 1px 0.5em; }
 
 pre { border: 1px solid black; font-family: Iosevka, monospace; opacity: 0.8; overflow-x: auto; padding: 24px; }
