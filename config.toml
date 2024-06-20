@@ -2,6 +2,7 @@ baseURL = "https://www.keenanschott.com/"
 languageCode = "en-us"
 title = "Keenan Schott"
 theme = "smol"
+summaryLength = 100
 
 pygmentsCodefences = true
 pygmentsStyle = "github"
