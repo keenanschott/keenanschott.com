@@ -4,7 +4,7 @@ date: 2024-06-16T15:56:00-0600
 categories: 
   - announcements
 tags:
-  - announcements
+  - announcement
 description: |
   An announcement regarding my blog schedule.
 ---
