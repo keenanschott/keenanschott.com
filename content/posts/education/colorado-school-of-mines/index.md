@@ -1,6 +1,6 @@
 ---
 title: Colorado School of Mines
-date: 2024-06-14T13:00:00-06:00
+date: 2024-07-14T13:00:00-06:00
 categories: [Education]
 tags: [Mines]
 ---
