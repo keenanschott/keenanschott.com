@@ -9,4 +9,4 @@ description: |
   An announcement regarding my blog schedule.
 ---
 
-Setting expectations is never easy. Regardless, starting in July, expect new blog posts on fifteenth of every month!
+Setting expectations is never easy. Regardless, starting in July, expect new blog posts around the fifteenth of every month!
