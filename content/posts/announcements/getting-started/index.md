@@ -2,9 +2,9 @@
 title: Getting Started
 date: 2024-06-16T15:56:00-0600
 categories: 
-  - announcements
+  - Announcements
 tags:
-  - announcement
+  - Announcement
 description: |
   An announcement regarding my blog schedule.
 ---

@@ -1,8 +1,8 @@
 ---
 title: Colorado School of Mines
 date: 2024-07-14T13:00:00-06:00
-categories: [education]
-tags: [Mines, computer science, math]
+categories: [Education]
+tags: [Mines, Computer Science, Math]
 ---
 
 After just over two months since graduating from the [Colorado School of Mines](https://www.linkedin.com/feed/update/urn:li:activity:7196277618038427648/), I find myself reflecting on my time in Golden. While there will be a future post dedicated solely to my personal growth and favorite moments during my three years in Colorado, that moment will likely coincide with my departure in August. This post focuses exclusively on my academic endeavors, aiming to capture the ways in which I attempted to better myself. To concisely summarize the entirety of my experiences is an impossible task. I considered discussing the interesting technical knowledge I now have under my belt; not only does that conversation fail to provide a sensible close to this era of my life, but it can't provide you, the reader, with anything worthwhile. Rather, I wish to speak about one class I took at Mines in particular and why I consider it my favorite.
