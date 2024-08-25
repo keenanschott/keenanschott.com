@@ -1,13 +1,15 @@
 ---
 title: "About"
 date: 2024-06-17 22:03:00
+aliases:
+  - /contact
 ---
 
 Hello, and welcome to my website!
 
 My name is Keenan, and I'm a recent Colorado School of Mines alum (B.S. in
-Computer Science with a focus in Computer Engineering, 2024) living in Golden,
-Colorado. I am a Software Engineer Intern at
+Computer Science with a focus in Computer Engineering, 2024) living in Seattle,
+Washington. I am a former Software Engineer Intern at
 [ICR, Inc.](https://www.icr-team.com/) and an incoming student at the
 University of Washington (M.S. in Information Management with a focus in
 Program/Product Management & Consulting, 2025). Previously, I worked at

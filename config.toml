@@ -42,9 +42,9 @@ timeout = "360s"
 
 [params]
   author = "Keenan Schott"
-  description = "I'm a Software Engineer Intern at ICR, Inc.. This is my personal website, portfolio, and blog."
+  description = "I'm a student at the University of Washington. This is my personal website, portfolio, and blog."
   title = "Keenan Schott"
-  subtitle = "Software Engineer Intern at ICR, Inc."
+  subtitle = "Student at the University of Washington"
   dateFmt = "01/02/2006"
   logo = "profile.jpg"
 
@@ -66,42 +66,31 @@ timeout = "360s"
     identifier = "portfolio"
     name = "Portfolio"
     url = "/portfolio/"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories/"
-    weight = 5
+    weight = 4
 
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     identifier = "rss"
     name = "RSS"
     url = "/index.xml"
-    weight = 7
-
-# Footer
-  [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/keenanschott"
-    weight = 1
-
-  [[menu.footer]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/keenanschott"
-    weight = 2
+    weight = 6
 
 [related]
   includeNewer = true
