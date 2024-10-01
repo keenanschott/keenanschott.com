@@ -7,7 +7,7 @@ A real-life example can be found at https://morph.sh.
 smol is based on [Blank](https://github.com/Vimux/Blank) created by [Vimux](https://github.com/Vimux).
 
 
-![Screenshot](/images/tn.png)
+![Screenshot](/themes/smol/images/tn.png)
 
 ## Features
 
