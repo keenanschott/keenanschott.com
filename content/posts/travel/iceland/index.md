@@ -1,57 +1,64 @@
 ---
 title: Iceland
-date: 2024-11-23T12:00:00-07:00
+date: 2024-12-12T12:00:00-07:00
 categories: [Travel]
 tags: [Iceland, Abroad]
 description: |
   These are my thoughts and reflections on my exploration of Iceland.
-draft: true
-
+image: images/m_85.jpg
 ---
 
-Section 1
+Iceland is one of those corners of the globe that is shrouded in mystery to the average American such as myself, which is exactly why I decided to visit with my mother following my graduation. We left on the final day of August on a direct flight from Seattle. Iceland is on Greenwich Mean Time, meaning an eight hour time difference that did not bode well with someone that cannot sleep on planes. After we landed at around ten in the morning on the first of September, we picked up our rental car and headed to Reykjavík. Thankfully, Iceland drives on the right side of the road, removing driving as an unpredictable variable. The biggest difference there was how narrow the roads were and kilometers per hour being the standard speed limit format. It's interesting how my brain could look down at the speedometer, see 100 kph, and freak out for a second.
 
 {{<figure
   src="images/p_1.jpg"
-  title="X"
-  caption="X"
+  title="Seattle to Reykjavík"
+  caption="Shot on the iPhone 12."
   attr="Keenan Schott"
   attrlink="https://keenanschott.com"
 >}}
+
+On our first day in Reykjavík, we explored the city, visited the Harpa Concert Hall and Conference Center, and went on a food tour. The highlight of the tour was at Messin, a seafood restaurant. This is an Icelandic cod with curry sauce, rucola salad, and potatoes. The other dish here was Plokkfiskur, a hearty fish and potato mash. Nearly every restaurant we visited only offered Icelandic beer, which I found interesting because while American soda brands, like Coca-Cola, are a universal language, Coors Light is not. The typical offerings were some variants of Gull, Víking, and Boli - all were pretty good. 
 
 {{<figure
   src="images/p_2.jpg"
-  title="X"
-  caption="X"
+  title="Scran"
+  caption="Shot on the iPhone 12."
   attr="Keenan Schott"
   attrlink="https://keenanschott.com"
 >}}
+
+At another restaurant, Íslenski Barinn, we had the opportunity to try fermented shark. Although the smell was putrid, the taste was pretty neutral - I can see how, if driven by necessity, those who lived hundreds of years ago could live of off this. We also had Brennivín/Burning wine/Death wine. Another highlight of the food tour was trying Iceland's national dish, the hotdog, which had ketchup, mustard, remoulade sauce, deep fried onion, and raw onion. It was good, but a little overwhelming. 
 
 {{<figure
   src="images/p_3.jpg"
-  title="X"
-  caption="X"
+  title="Fermented Shark"
+  caption="Shot on the iPhone 12."
   attr="Keenan Schott"
   attrlink="https://keenanschott.com"
 >}}
+
+Following our tour, we were dropped in front of Hallgrímskirkja, the largest church in Iceland and among the tallest structures in the country.
 
 {{<figure
   src="images/p_4.jpg"
-  title="X"
-  caption="X"
+  title="Hallgrímskirkja"
+  caption="Shot on the iPhone 12."
   attr="Keenan Schott"
   attrlink="https://keenanschott.com"
 >}}
+
+In front of Hallgrímskirkja, sits the statue of Norse explorer Leif Erikson, commissioned by the United States. It was a gift to Iceland for the 1,000th anniversary of the Alþingi, Iceland's parliament, in 1930. 
 
 {{<figure
   src="images/p_5.jpg"
-  title="X"
-  caption="X"
+  title="Leif Erikson"
+  caption="Shot on the iPhone 12."
   attr="Keenan Schott"
   attrlink="https://keenanschott.com"
 >}}
 
-Section 2
+Next, we headed north to Snæfellsnes, a large peninsula in western Iceland. We stopped at Ytri Tunga, a beach by a farm of the same name. Unlike many of the beaches in Iceland, Ytri Tunga has golden sand, rather than black. The big draw here was seals, as it's said to be one of the most reliable sites in Iceland to see them. 
 
 {{<figure
   src="images/m_1.jpg"
