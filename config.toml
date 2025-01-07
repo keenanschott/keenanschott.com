@@ -46,7 +46,7 @@ timeout = "360s"
   title = "Keenan Schott"
   subtitle = "Student at the University of Washington"
   dateFmt = "01/02/2006"
-  logo = "profile.jpeg"
+  logo = "profile.jpg"
 
   # Theme
   themeColorAutoDetectBrowserPreference = true
