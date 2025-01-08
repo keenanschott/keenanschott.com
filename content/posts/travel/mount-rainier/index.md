@@ -1,5 +1,5 @@
 ---
-title: Mt. Rainier
+title: Mt. Rainier National Park
 date: 2025-01-07T16:00:00-07:00
 categories: [Travel]
 tags: [Washington, National Parks, Hiking]
