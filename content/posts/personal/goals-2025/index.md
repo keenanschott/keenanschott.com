@@ -12,13 +12,11 @@ New Year's Day has come and gone, as has the time to be setting new goals and [r
 I could write extensively on the issues I have with [hustle culture](https://www.forbes.com/councils/forbesbusinesscouncil/2023/02/16/the-pros-and-cons-of-hustle-culture-how-to-work-hard-without-burning-out/), the "grindset", and, hell, even with the corny influencer-inspired self-improvement arcs I see much of my generation buying into it. I walked away from reading the now infamous [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear a bit skeptical. Yes, getting one percent better everyday results in an easily grasped mathematical improvement. No, it's not that simple. For myself, improvement is a non-linear process - some days, I achieve a two percent gain, on others, maybe a tenth of a percentage point gain, and, on all days, I keep up-to-date enough on my skills that even going an entire month without programming results in no regression. If you learn the skills right, it becomes more like riding a bike. My former classmate, [Ethan Richards](https://ezrichards.github.io/), wrote a great [post](https://ezrichards.github.io/posts/on-stressculture/) on stressculture. In an attempt to grind my way into the next phase of life where I'm wildly successful and everything is so great and awesome (spoiler: there will always be stressors and it will never be perfect), I often forget to enjoy the here and now.
 
 So, what does that have to do with goal setting? While I'll keep the [SMART](https://en.wikipedia.org/wiki/SMART_criteria) details mostly to myself, I do want to share a brief overview of my goals and aspirations, as well as a reminder to keep things realistic. Will I have enough time to grind [LeetCode](https://leetcode.com/) 24/7 and break into [FAANG](https://en.wikipedia.org/wiki/Big_Tech)? Probably not. Will I work my ass off to ensure I get a job in tech with the skills I've built over the last four year? No doubt. Will I get jacked? Probably not. Will I be able to run a half a marathon and get back to benching 225? With the right amount of dedication, yes. Here is a high-level overview of what I want to achieve in 2025:
-
 - get a job as a software engineer or PM in tech, preferably in Seattle
 - return to a basic level of physical fitness
 - create a side project that demonstrates my skill set
 
 and the loosely defined ones:
-
 - make my mom happy
 - write, write, write
 - enjoy the present

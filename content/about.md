@@ -16,16 +16,16 @@ Program/Product Management & Consulting, 2025). Previously, I worked at
 [Datava](https://datava.com/).
 
 My technical interests include:
-- Computer Science & Engineering
-- Full-Stack Development
-- Programming
-- Technical Product Management
-- Consulting
+- computer science & engineering
+- full-stack development
+- programming
+- technical product management
+- consulting
 
 My non-technical interests include:
-- Music
-- Photography
-- Sports
+- music
+- photography
+- sports
 
 When I'm not working or at school, I enjoy skiing, backpacking, and, in
 general, being outdoors. I'll often take either a DSLR or film camera
