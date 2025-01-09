@@ -1,13 +1,13 @@
 ---
-title: My Ten Albums of 2024
+title: Ten Albums from 2024
 date: 2025-01-07T18:00:00-07:00
 categories: [Music]
 tags: [Ten Albums]
 description: |
-  These are my ten albums of 2024.
+  These are my ten favorite albums from 2024.
 ---
 
-In 2023, I embarked on a personal journey of listening to an album every single day. This endeavor expanded my musical horizons, but unfortunately, it went largely unchronicled and remains unshared with the world. Now, as a step toward sharing the music that shaped my year - and the albums that resonated with me - I am excited to present ten albums that truly defined my 2024.
+In 2023, I embarked on a personal journey of listening to an album every single day. This endeavor expanded my musical horizons, but unfortunately, it went largely unchronicled and remains unshared with the world. Now, as a step toward sharing the music that shaped my year time around, I am excited to present ten albums that truly defined my 2024.
 
 Please note that this list includes only albums released in the past year. Some honorable mentions are [*BRAT*](https://en.wikipedia.org/wiki/Brat_(album)) by [Charli XCX](https://en.wikipedia.org/wiki/Charli_XCX), [*Fine Art*](https://en.wikipedia.org/wiki/Fine_Art_(Kneecap_album)) by [KNEECAP](https://en.wikipedia.org/wiki/Kneecap_(band)), [*Samurai*](https://en.wikipedia.org/wiki/Samurai_(Lupe_Fiasco_album)) by [Lupe Fiasco](https://en.wikipedia.org/wiki/Lupe_Fiasco), [*Alligator Bites Never Heal*](https://en.wikipedia.org/wiki/Alligator_Bites_Never_Heal) by [Doechii](https://en.wikipedia.org/wiki/Doechii), [*This is How Tomorrow Moves*](https://en.wikipedia.org/wiki/This_Is_How_Tomorrow_Moves) by [beabadoobee](https://en.wikipedia.org/wiki/Beabadoobee), [*Bright Future*](https://en.wikipedia.org/wiki/Bright_Future_(Adrianne_Lenker_album)) by [Adrianne Lenker](https://en.wikipedia.org/wiki/Adrianne_Lenker), [*I LAY DOWN MY LIFE FOR YOU*](https://en.wikipedia.org/wiki/I_Lay_Down_My_Life_for_You) by [JPEGMAFIA](https://en.wikipedia.org/wiki/JPEGMafia), [*In Waves*](https://en.wikipedia.org/wiki/In_Waves_(Jamie_xx_album)) by [Jamie xx](https://en.wikipedia.org/wiki/Jamie_xx), [*Two Star & The Dream Police*](https://en.wikipedia.org/wiki/Two_Star_%26_the_Dream_Police) by [Mk.gee](https://en.wikipedia.org/wiki/Mk.gee), and [*Cold Visions*](https://en.wikipedia.org/wiki/Cold_Visions) by [Bladee](https://en.wikipedia.org/wiki/Bladee), among others.
 
