@@ -25,4 +25,4 @@ I aim to place heavy emphasis on the last one. In high school, I looked forward 
 
 If you find yourself relating to what I have to say, I encourage you to go easy on yourself. For the past year, I've spent a lot of time passively worrying about what the future holds. Will it all work out? Yes, it will. If I stick to a routine conducive to my success, I have nothing to worry about. Make time for friends. Make time for family. Go for a walk. Go to the movies alone. Go to a coffee shop alone and don't look at your phone. Read a book outside. Avoid the garbage.
 
-I'm just on a tangent now. Anyway, I hope everyone has big aspirations for 2025, and I wish you all success. Don't worry - [WAGMI](https://www.kraken.com/learn/what-is-wagmi-ngmi).
+I'm just on a tangent now. Anyway, I hope everyone has big aspirations for 2025, and I wish you all success. Don't worry - [WAGMI](https://academy.binance.com/en/glossary/wagmi).
