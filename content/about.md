@@ -8,7 +8,7 @@ aliases:
 Hello, and welcome to my website!
 
 My name is Keenan, and I'm a recent Colorado School of Mines alum (B.S. in
-Computer Science with a focus in Computer Engineering, 2024) living in Seattle,
+Computer Science with a focus in Computer Engineering, 2024) living in Edmonds,
 Washington. I am a former Software Engineer Intern at
 [ICR, Inc.](https://www.icr-team.com/) and an incoming student at the
 University of Washington (M.S. in Information Management with a focus in
@@ -19,6 +19,8 @@ My technical interests include:
 - Computer Science & Engineering
 - Full-Stack Development
 - Programming
+- Technical Product Management
+- Consulting
 
 My non-technical interests include:
 - Music
@@ -31,8 +33,11 @@ on these excursions, and I share my work on my [blog](/). I post about
 my travels, technology, education, projects, and anything else that might
 come to mind. On my [portfolio][1] page, I have an up-to-date overview
 of my professional achievements as well as my up-to-date
-[resume](/portfolio/resume.pdf). You can find links to all of my
-public-facing social media accounts in the footer of this site.
+[resume](/portfolio/resume.pdf). If you find my work intriguing and
+believe I could be a valuable addition to your team, please don't hesitate
+to reach out - I am currently seeking new opportunities! You can find
+links to all of my public-facing social media accounts in the footer of
+this site.
 
 Thanks for stopping by!
 
