@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "D:/Code/keenanschott",
+	"sourceRoot": "D:/Code/keenanschott.com",
 	"sources": [
 		"themes/smol/assets/scss/main.scss",
 		"themes/smol/assets/scss/admonitions.scss",
