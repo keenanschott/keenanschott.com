@@ -10,7 +10,7 @@ Hello, and welcome to my website!
 My name is Keenan, and I'm a recent Colorado School of Mines alum (B.S. in
 Computer Science with a focus in Computer Engineering, 2024) living in Edmonds,
 Washington. I am a former Software Engineer Intern at
-[ICR, Inc.](https://www.icr-team.com/) and an incoming student at the
+[ICR, Inc.](https://www.icr-team.com/) and a student at the
 University of Washington (M.S. in Information Management with a focus in
 Program/Product Management & Consulting, 2025). Previously, I worked at
 [Datava](https://datava.com/).
@@ -20,12 +20,12 @@ My technical interests include:
 - full-stack development
 - programming
 - technical product management
-- consulting
 
 My non-technical interests include:
 - music
 - photography
 - sports
+- gaming
 
 When I'm not working or at school, I enjoy skiing, backpacking, and, in
 general, being outdoors. I'll often take either a DSLR or film camera
