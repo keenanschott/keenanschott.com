@@ -25,16 +25,6 @@ function ThemeManager(options) {
       document.body.classList.add('light-theme');
       document.body.classList.remove('dark-theme');
     }
-
-    for (let el of document.getElementsByTagName("img")) {
-      if (el.src.match(/https:\/\/notbyai.fyi\/img/)) {
-        if (theme === 'dark') {
-          el.src = 'https://notbyai.fyi/img/written-by-human-not-by-ai-black.svg';
-        } else {
-          el.src = 'https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg';
-        }
-      }
-    }
   }
 
   this.switch = function (themeOverride) {

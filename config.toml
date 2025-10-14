@@ -2,18 +2,12 @@ baseURL = "https://www.keenanschott.com/"
 languageCode = "en-us"
 title = "Keenan Schott"
 theme = "smol"
-summaryLength = 60
 
 pygmentsCodefences = true
 pygmentsStyle = "github"
 pygmentsUseClasses = true
 
 timeout = "360s"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
-# paginate = 15
 
 [minify]
   minifyOutput = true
@@ -42,9 +36,9 @@ timeout = "360s"
 
 [params]
   author = "Keenan Schott"
-  description = "I'm a student at the University of Washington. This is my personal website, portfolio, and blog."
+  description = "I'm a Systems Engineer at Epic. This is my personal website and portfolio."
   title = "Keenan Schott"
-  subtitle = "Student at the University of Washington"
+  subtitle = "Systems Engineer at Epic"
   dateFmt = "01/02/2006"
   logo = "profile.jpg"
 
@@ -52,62 +46,6 @@ timeout = "360s"
   themeColorAutoDetectBrowserPreference = true
   themeColor = 'dark'
 
-  # Posts shown in homepage
-  mainSections = ["posts"]
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "portfolio"
-    name = "Portfolio"
-    url = "/portfolio/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 4
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "rss"
-    name = "RSS"
-    url = "/index.xml"
-    weight = 6
-
-[related]
-  includeNewer = true
-  toLower = true
-  [[related.indices]]
-    name = 'keywords'
-    type = 'basic'
-    weight = 100
-  [[related.indices]]
-    name = 'tags'
-    type = 'basic'
-    weight = 60
-  [[related.indices]]
-    name = 'categories'
-    type = 'basic'
-    weight = 30
-  [[related.indices]]
-    name = 'date'
-    type = 'basic'
-    weight = 10
+[taxonomies]
+  tag = ""
+  category = ""
